@@ -1,0 +1,6 @@
+.pid
+/dist
+/tmp
+/out-tsc
+.seed
+.pid.lock
